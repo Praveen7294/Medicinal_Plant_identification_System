@@ -1,0 +1,15 @@
+0 Aloevera
+1 Amla
+2 Amrutha Balli
+3 Ashoka
+4 Ashwagandha
+5 Ekka
+6 Insulin
+7 Mint
+8 Neem
+9 Noni
+10 Peepal
+11 Rakta Chandan
+12 Rose
+13 Tulsi
+14 Wood sorel
